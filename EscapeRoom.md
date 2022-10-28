@@ -3,10 +3,11 @@ Escape Room
 # Escape Room
 1. Challenges_num: 3
 
-# Props
+# Assests
 Prison cell
 1. https://www.turbosquid.com/3d-models/3d-jail-scene-1205960
 2. https://assetstore.unity.com/packages/3d/props/interior/abandoned-prison-cell-234925
+3. https://assetstore.unity.com/packages/3d/props/interior/jails-interior-97757
 
 Window
 1.   
